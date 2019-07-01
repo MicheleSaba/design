@@ -1,9 +1,11 @@
+@import '../../../src/styles/variables.scss';
+
 .header {
   position: absolute; 
   top: 0; 
   width: 100%;
-  background-color: #555; 
-  height: 250px; 
+  background-color: $backgroundColorDark; 
+  height: 100px; 
   padding: 5%; 
   box-sizing: border-box;
   color: #fff;

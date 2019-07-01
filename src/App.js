@@ -1,12 +1,12 @@
 import React from 'react';
+import Main from '../src/components/main';
 
-import Header from '../src/components/header';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Header brand = {'Hello World!'} />
+      <Main />
     </div>
   );
 }
