@@ -1,0 +1,11 @@
+@import '../../../src/styles/variables.scss';
+
+.main {
+  width: 100%;
+  background-color: $backgroundColorLight;
+  box-sizing: border-box;
+  color: #555;
+}
+.main h1 {
+  font-size: 50px; 
+}
